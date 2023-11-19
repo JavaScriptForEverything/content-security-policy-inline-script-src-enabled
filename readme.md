@@ -6,8 +6,6 @@
 | ![blocked](https://github.com/JavaScriptForEverything/content-security-policy-inline-script-src-enabled/blob/master/public/csp-inline-script-src-blocked.png) | ![alowed](https://github.com/JavaScriptForEverything/content-security-policy-inline-script-src-enabled/blob/master/public/csp-inline-script-src-allowed.png) | 
 
 
-![alowed](https://github.com/JavaScriptForEverything/content-security-policy-inline-script-src-enabled/blob/master/public/csp-inline-script-src-allowed.png) 
-
 
 <img 
 	width = "100%"
