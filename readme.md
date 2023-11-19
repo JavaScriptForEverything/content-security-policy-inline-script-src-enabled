@@ -1,5 +1,25 @@
 ## Content-Security-Policy: (CSP)
 
+
+| CSP inline (script-src) Blocked     | CSP inline (script-src) Allowed | 
+| ----------------------------------- | ----------------------------------- | 
+| ![blocked](https://github.com/JavaScriptForEverything/content-security-policy-inline-script-src-enabled/blob/master/public/csp-inline-script-src-blocked.png) | ![alowed](https://github.com/JavaScriptForEverything/content-security-policy-inline-script-src-enabled/blob/master/public/csp-inline-script-src-allowed.png) | 
+
+
+![alowed](https://github.com/JavaScriptForEverything/content-security-policy-inline-script-src-enabled/blob/master/public/csp-inline-script-src-allowed.png) 
+
+
+<img 
+	width = "100%"
+	src="https://github.com/JavaScriptForEverything/content-security-policy-inline-script-src-enabled/blob/master/public/csp-inline-script-src-blocked.gif"
+	alt="Animated Picture"
+/>
+
+
+
+
+
+
 When we use `helmet` in express app, by default it disabled all inline src.
 
 #### What is inline src ?
