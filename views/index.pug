@@ -1,0 +1,56 @@
+doctype html
+html(lang="en")
+	head
+		meta(charset="UTF-8")
+		meta(name="viewport", content="width=device-width, initial-scale=1.0")
+		title Document
+
+		style.
+			h1 { color: red; }
+			span { color: blue; font-weight: bold; }
+	body 
+		h1 Content-Security-Policy: 
+		p How to enable 
+			span inline (script-src)
+
+		script(src='/home.js')
+		script(nonce=cspNonce).
+			console.log('inline script-src: Hi I am inline script')
+			//- alert('from inline')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		//- script(nonce=cspNonce).
+			console.log('inline script-src: Hi I am inline script')
+			//- alert('from inline')
